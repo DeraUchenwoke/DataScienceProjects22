@@ -1,3 +1,7 @@
+# INSTALL ALL PACKAGES FOR EXERCISES:
+python -m pip install -r requirements.txt
+
+# ADDITIONAL COMMANDS:
 NOTE: Using pip version pip-21.3.1 (latest at to date)
 
 python -m pip install packagename -> to install/uninstall/upgrade package names.
@@ -5,5 +9,5 @@ python -m pip install packagename
 python -m pip uninstall packagename
 python -m pip install --upgrade packagename
 
-python -m pip install -r requirements.txt -> to install requirements.txt file.
+
 
