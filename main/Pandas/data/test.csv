@@ -1,0 +1,13 @@
+fruit_names,sold_numbers,remaining_numbers,need purchase?
+apple,6540,3240,no
+banana,5410,,yes
+orange,7861,1240,yes
+grape,8921,658,yes
+Avocados,1505,2041,no
+Blueberries,,2241,no
+Watermelon,86,32,yes
+Mango,209,182,no
+Cherries,6050,1820,no
+Cucumbers,600,450,no
+Dates,800,350,yes
+Fig,465,310,no
